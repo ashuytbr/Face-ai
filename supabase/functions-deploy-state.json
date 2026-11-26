@@ -1,0 +1,13 @@
+{
+  "projectId": "73140923",
+  "functions": {
+    "face-match": {
+      "hasChanged": false,
+      "hash": "79c6b72d747216dcf5624950d8ffcaae6c5a27aa97a35f390ea9c62c4ad024b7"
+    },
+    "process-photos": {
+      "hasChanged": false,
+      "hash": "d268f612ece36f0ad5a92f67a3b380952b5f21fc39eab097088ce2aacbdd72cc"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+[functions.face-match]
+verify_jwt = false
+
+[functions.process-photos]
+verify_jwt = true
